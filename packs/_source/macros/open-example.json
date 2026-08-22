@@ -1,0 +1,14 @@
+{
+  "_id": "pmtOpenExample01",
+  "_key": "!macros!pmtOpenExample01",
+  "name": "Foundry Module Template: Open Example",
+  "type": "script",
+  "author": "pmtTemplateUser1",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "game.modules.get('foundry-module-template')?.api?.open();",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}
